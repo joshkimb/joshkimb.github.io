@@ -14,7 +14,7 @@ p {
 }
 .banner-text {
     display: block;
-    padding: 0px 0px 0px 0px;
+    padding: auto;
     margin-top: auto;
     margin-bottom: auto;
     text-shadow: 2px 2px black;
