@@ -15,7 +15,7 @@ p {
 .banner-text {
     display: block;
     padding: 0px 0px 0px 0px;
-    margin-top: auto;
+    margin-top: 12px;
     margin-bottom: auto;
     text-shadow: 2px 2px black;
     font-size: 75px;
