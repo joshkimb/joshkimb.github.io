@@ -14,6 +14,7 @@ p {
     background-color: #9A2A2A;
 }
 .banner-text {
+    display: block;
     padding: 0px 0px 0px 0px;
     height: 75%;
     margin-top: auto;
