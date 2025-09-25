@@ -12,7 +12,7 @@ p {
     height: 150px;
     background-color: #9A2A2A;
 }
-p.banner {
+h1.banner {
     margin-top: auto;
     margin-bottom: auto;
     text-shadow: 2px 2px black;
