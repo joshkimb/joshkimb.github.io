@@ -19,6 +19,7 @@ p {
     padding: 0px 0px 0px 0px;
     text-shadow: 2px 2px black;
     vertical-align: middle;
+    height: 100px;
     line-height: 10px;
     font-size: 100px;
     color: white;
