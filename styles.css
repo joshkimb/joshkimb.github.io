@@ -7,13 +7,13 @@ p {
     color: black;
 }
 .banner {
+    display: block;
     margin: 0px 0px 0px 0px;
     width: 100%;
     height: 150px;
     background-color: #9A2A2A;
 }
-.banner-text {
-    display: block;
+p.banner {
     padding: 45px 0px 0px 0px;
     margin-top: 45px;
     margin-bottom: auto;
