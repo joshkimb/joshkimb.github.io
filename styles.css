@@ -2,7 +2,7 @@ div {
     text-align: center;
     color: #9A2A2A;
 }
-.about{
+.about div{
     display: inline-block;
     width: 50%;
 }
