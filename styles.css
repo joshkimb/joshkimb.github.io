@@ -6,7 +6,6 @@ div {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    height: 300px;
 }
 .about h3 {
     width: 49%;
