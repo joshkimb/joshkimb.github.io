@@ -2,6 +2,10 @@ div {
     text-align: center;
     color: #9A2A2A;
 }
+.class{
+    display: inline-block;
+}
+
 p {
     text-align: center;
     color: black;
