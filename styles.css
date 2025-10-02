@@ -9,6 +9,7 @@ div {
     padding: 10px;
     border-left: 3px solid #9A2A2A;
     border-right: 3px solid #9A2A2A;
+    height: auto;
 }
 .about p {
     text-align: justify;
@@ -32,4 +33,7 @@ p {
     text-shadow: 2px 2px black;
     font-size: 75px;
     color: white;
+}
+.banner h1 {
+    vertical-align: middle;
 }
