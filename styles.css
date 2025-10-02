@@ -4,6 +4,7 @@ div {
 }
 .about{
     display: inline-block;
+    width: 50%;
 }
 
 p {
