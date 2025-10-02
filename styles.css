@@ -21,6 +21,8 @@ div {
 }
 .about p {
     text-align: justify;
+    padding-left: 10;
+    padding-right: 10;
 }
 .about li {
     text-align: left;
