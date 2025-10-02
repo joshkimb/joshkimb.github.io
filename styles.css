@@ -8,8 +8,7 @@ div {
 }
 .about .container div {
     width: 30%;
-    margin: auto;
-    padding: auto;
+    padding: 5 10, 5 , 10;
     border-left: 3px solid #9A2A2A;
     border-right: 3px solid #9A2A2A; 
 }
