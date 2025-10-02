@@ -4,11 +4,14 @@ div {
 }
 .about div{
     display: inline-block;
-    width: 49.9%;
+    width: 49;
     margin: auto;
     padding: 50px;
     border-left: 3px solid #9A2A2A;
     border-right: 3px solid #9A2A2A;
+}
+.about ul {
+    text-align: left;
 }
 
 p {
