@@ -3,6 +3,20 @@ div {
     text-align: center;
     color: #9A2A2A;
 }
+.banner {
+    display: block;
+    margin: 0;
+    width: 100%;
+    height: 150px;
+    background-color: #9A2A2A;
+}
+.banner h1 {
+    padding: auto;
+    vertical-align: middle;
+    text-shadow: 2px 2px black;
+    font-size: 75px;
+    color: white;
+}
 .about {
     display: block;
 }
@@ -32,17 +46,7 @@ p {
     text-align: center;
     color: black;
 }
-.banner {
-    display: block;
-    margin: 0;
-    width: 100%;
-    height: 150px;
-    background-color: #9A2A2A;
-}
-.banner h1 {
-    padding: auto;
-    vertical-align: middle;
-    text-shadow: 2px 2px black;
-    font-size: 75px;
-    color: white;
-}
+
+.skills {}
+.projects {}
+.contact {}
