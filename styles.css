@@ -7,10 +7,9 @@ div {
     vertical-align: middle;
     width: 30%;
     margin: auto;
-    padding: 10px;
+    padding: auto;
     border-left: 3px solid #9A2A2A;
-    border-right: 3px solid #9A2A2A;
-    height: 150px;
+    border-right: 3px solid #9A2A2A; 
 }
 .about p {
     text-align: justify;
