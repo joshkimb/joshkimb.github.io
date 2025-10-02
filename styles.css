@@ -4,11 +4,11 @@ div {
 }
 .about div{
     display: inline-block;
-    width: 49%;
+    width: 49.9%;
     margin: auto;
-    padding: auto;
+    padding: 50%;
 }
-cc
+
 p {
     text-align: center;
     color: black;
