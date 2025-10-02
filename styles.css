@@ -2,21 +2,23 @@ div {
     text-align: center;
     color: #9A2A2A;
 }
-.about {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-}
 .about h3 {
     width: 49%;
     margin: auto;
 }
-.about div{
+.about .container div {
     width: 30%;
     margin: auto;
     padding: auto;
     border-left: 3px solid #9A2A2A;
     border-right: 3px solid #9A2A2A; 
+}
+.about .container {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 .about p {
     text-align: justify;
