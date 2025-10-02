@@ -1,10 +1,10 @@
 div {
+    width: 100%;
     text-align: center;
     color: #9A2A2A;
 }
-.about h3 {
-    width: 49%;
-    margin: auto;
+.about {
+    display: block;
 }
 .about .container div {
     width: 30%;
