@@ -4,7 +4,7 @@ div {
 }
 .about div{
     display: inline-block;
-    width: 49;
+    width: 30%;
     margin: auto;
     padding: 10px;
     border-left: 3px solid #9A2A2A;
@@ -13,7 +13,7 @@ div {
 .about p {
     text-align: justify;
 }
-.about ul {
+.about li {
     text-align: left;
 }
 
