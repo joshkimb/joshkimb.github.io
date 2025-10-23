@@ -42,11 +42,21 @@ div {
     text-align: left;
 }
 
+.projects { display: flex; flex-wrap: wrap;}
+
+.project {
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: #9A2A2A;
+    border-radius: 25%;
+    color: white;
+}
+
 p {
     text-align: center;
     color: black;
 }
 
 .skills {}
-.projects {}
 .contact {}
