@@ -53,15 +53,6 @@ div {
     color: white;
 }
 
-.project img {
-    width: 300px;
-    height: 300px;
-    margin: 10px;
-    border: 2px solid white;
-    display: block;
-    margin: auto;
-}
-
 p {
     text-align: center;
     color: black;
