@@ -52,6 +52,10 @@ div {
     border-radius: 25%;
     color: white;
 }
+.project .img {
+    width: 30%;
+    height: auto;
+}
 
 p {
     text-align: center;
