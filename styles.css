@@ -52,9 +52,13 @@ div {
     border-radius: 25%;
     color: white;
 }
-.project .img {
-    width: 30%;
-    height: auto;
+.project img {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
 }
 
 p {
