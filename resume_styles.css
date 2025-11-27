@@ -10,6 +10,7 @@
     /* Google AI */
     width: 210mm; /* A4 width */
     min-height: 297mm; /* A4 height */
+    max-height: 297mm;
     margin: 20px auto; /* Center the page and add top/bottom margins */
     padding: 30mm 25mm; /* Inner padding for content within the page */
     background-color: white;
