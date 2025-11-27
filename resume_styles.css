@@ -17,6 +17,10 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
     box-sizing: border-box; /* Include padding in width/height calculations */
 }
+
+.header {
+    text-align: center;
+}
 .page p {
-    font-size: 12px;
+    font-size: 20px;
 }
