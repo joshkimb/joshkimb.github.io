@@ -19,7 +19,7 @@
 
 .header {
     margin: 0;
-    padding: 4px 0;
+    padding: 0;
     text-align: center;
 }
 .page p {
@@ -37,5 +37,8 @@ h3 {
 }
 hr {
     width: 100%;
+    padding: 0;
     border-width: 100%;
+    margin: 0;
+    height: 2px;
 }
