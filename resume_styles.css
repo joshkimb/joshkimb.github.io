@@ -1,11 +1,21 @@
 
 .page {
-    width: 75vw;
-    margin: auto;
+    /* width: 75vw; */
+    /*margin: auto;*/
     aspect-ratio: 9 / 16;
     display: flex;
     flex-direction: column;
     background-color: white;
+    /* padding: 20px; */
+
+    /* Google AI */
+    width: 210mm; /* A4 width */
+    min-height: 297mm; /* A4 height */
+    margin: 20px auto; /* Center the page and add top/bottom margins */
+    padding: 30mm 25mm; /* Inner padding for content within the page */
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    box-sizing: border-box; /* Include padding in width/height calculations */
 }
 .page p {
     font-size: 12px;
