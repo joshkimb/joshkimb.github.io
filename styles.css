@@ -64,6 +64,9 @@ div {
     text-align: center;
     margin: 15px;
 }
+.project a {
+    color: white;
+}
 
 p {
     text-align: center;
