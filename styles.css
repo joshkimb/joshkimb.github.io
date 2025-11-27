@@ -42,7 +42,7 @@ div {
     text-align: left;
 }
 
-.projects { display: flex; flex-wrap: wrap;}
+.projects { display: flex;}
 
 .project {
     width: 30%;
