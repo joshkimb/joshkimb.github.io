@@ -25,7 +25,20 @@
 .page p {
     margin: 0;
     padding: 0;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
+}
+.section p {
+    font-family: Calibri, sans-serif;
+}
+.section p i {
+    font-family: 'Times New Roman', Times, serif;
+}
+.section p [style] {
+    font-family: 'Times New Roman', Times, serif;
+}
+li {
+    font-family: Calibri, sans-serif;
 }
 h1 {
     margin: 0;
@@ -34,6 +47,7 @@ h1 {
 h3 {
     margin: 0;
     padding: 0; 
+    font-family: Calibri, sans-serif;
 }
 hr {
     width: 100%;
