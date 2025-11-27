@@ -19,8 +19,12 @@
 }
 
 .header {
+    margin: 0;
+    padding: 4px 0;
     text-align: center;
 }
 .page p {
-    font-size: 20px;
+    margin: 0;
+    padding: 4px 0;
+    font-size: 15px;
 }
