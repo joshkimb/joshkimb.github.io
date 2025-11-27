@@ -14,7 +14,6 @@
     margin: 20px auto; /* Center the page and add top/bottom margins */
     padding: 30mm 25mm; /* Inner padding for content within the page */
     background-color: white;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
     box-sizing: border-box; /* Include padding in width/height calculations */
 }
 
